@@ -8,7 +8,6 @@ This investigation will be part of the broader ongoing experimentation with the 
 
 This investigation will experiment with the social infrastructure on Zooniverse by creating a crowdsourcing project using photographic collections from Bradford and examining the ways in which participants interact among themselves as well as with the photographs online. In addition, we will also examine how participants utilise the tagging features on Zooniverse and how that impacts the ways in which other people can interact with the images there. Ideally, the results from this experimentation will help inform the development of the social infrastructure of the National Collection Social Machine.
 
-Check here the (now finished) [Zooniverse project](https://frontend.preview.zooniverse.org/projects/alexfitzpatrick/bradfords-industrial-heritage-in-photographs). 
 
 ## Research question(s):
 
@@ -37,7 +36,7 @@ Check here the (now finished) [Zooniverse project](https://frontend.preview.zoon
 - [Zooniverse platform](https://www.zooniverse.org)- including Zooniverse-built tools: ALICE, Caesar)
 
 ## Outputs:
-- Zooniverse project, Bradford’s Industrial Heritage through Photographs (publicly available on the platform and will be archived on there after completion)
+- [Zooniverse project, Bradford’s Industrial Heritage through Photographs](https://frontend.preview.zooniverse.org/projects/alexfitzpatrick/bradfords-industrial-heritage-in-photographs ) (publicly available on the platform and will be archived on there after completion)
 - Crowdsourced data will be aggregated and sent back to collection holders (Tim Smith and National Science and Media Museum)
 - Book Chapter
 
