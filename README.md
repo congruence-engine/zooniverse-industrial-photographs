@@ -27,7 +27,7 @@ Check here the (now finished) [Zooniverse project](https://frontend.preview.zoon
 #### Tim Smith: Resources
 
 
-## Data sources (used or developed):
+## Data sources:
 - 78 photographs related to Drummonds Mill from the personal archive of Tim Smith
 - 89 photographs of the Baird TV (Radio Rentals) factories in Bradford, held in the National Science and Media Museum collection
 
