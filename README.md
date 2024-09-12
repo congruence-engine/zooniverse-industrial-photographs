@@ -9,7 +9,7 @@ This investigation will be part of the broader ongoing experimentation with the 
 This investigation will experiment with the social infrastructure on Zooniverse by creating a crowdsourcing project using photographic collections from Bradford and examining the ways in which participants interact among themselves as well as with the photographs online. In addition, we will also examine how participants utilise the tagging features on Zooniverse and how that impacts the ways in which other people can interact with the images there. Ideally, the results from this experimentation will help inform the development of the social infrastructure of the National Collection Social Machine.
 
 
-## Research question(s):
+## Research questions:
 
 
 - What can we learn from already existing crowdsourcing infrastructures (e.g., Zooniverse) that can be applied to the development of the social infrastructure for the Social Machine?
@@ -31,7 +31,7 @@ This investigation will experiment with the social infrastructure on Zooniverse 
 - 89 photographs of the Baird TV (Radio Rentals) factories in Bradford, held in the National Science and Media Museum collection
 
 
-## Investigation methods/ tools/ code/ software (used or developed):
+## Investigation methods/ tools/ code/ software:
 - Crowdsourcing techniques (using transcription, image description, and object identification workflows) 
 - [Zooniverse platform](https://www.zooniverse.org)- including Zooniverse-built tools: ALICE, Caesar)
 
