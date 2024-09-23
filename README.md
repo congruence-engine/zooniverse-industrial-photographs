@@ -9,3 +9,16 @@ This investigation will be part of the broader ongoing experimentation with the 
 This investigation will experiment with the social infrastructure on Zooniverse by creating a crowdsourcing project using photographic collections from Bradford and examining the ways in which participants interact among themselves as well as with the photographs online. In addition, we will also examine how participants utilise the tagging features on Zooniverse and how that impacts the ways in which other people can interact with the images there. Ideally, the results from this experimentation will help inform the development of the social infrastructure of the National Collection Social Machine. 
 
 
+## People 
+
+Alex Fitzpatrick: Investigation
+
+Geoff Belknap: Supervision
+
+Tim Smith: Resources
+
+
+
+## Licence 
+This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
