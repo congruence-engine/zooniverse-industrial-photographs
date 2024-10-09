@@ -11,7 +11,7 @@ This investigation will experiment with the social infrastructure on Zooniverse 
 
 ## People 
 
-Alex Fitzpatrick: Investigation
+Alex Fitzpatrick: Investigation, Data curation, Formal analysis, Methodology, Writing 
 
 Geoff Belknap: Supervision
 
