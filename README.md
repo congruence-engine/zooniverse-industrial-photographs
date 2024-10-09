@@ -19,11 +19,13 @@ This investigation will experiment with the social infrastructure on Zooniverse 
 - For non-institutional collections, how can Zooniverse help create catalogue descriptions to be added to the Congruence Engine data pool of Bradford-related cultural heritage materials?
 
 
-## People
+## People 
 
-#### Alex Fitzpatrick: Investigation
-#### Geoff Belknap: Supervision
-#### Tim Smith: Resources
+**Alex Fitzpatrick**: Investigation, Data curation, Formal analysis, Methodology, Writing 
+
+**Geoff Belknap**: Supervision
+
+**Tim Smith**: Resources
 
 
 ## Data sources:
@@ -39,4 +41,6 @@ This investigation will experiment with the social infrastructure on Zooniverse 
 - [Zooniverse project, Bradford’s Industrial Heritage through Photographs](https://frontend.preview.zooniverse.org/projects/alexfitzpatrick/bradfords-industrial-heritage-in-photographs ) (publicly available on the platform and will be archived on there after completion)
 - Crowdsourced data will be aggregated and sent back to collection holders (Tim Smith and National Science and Media Museum)
 - Book Chapter
+
+
 
