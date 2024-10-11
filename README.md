@@ -42,5 +42,10 @@ This investigation will experiment with the social infrastructure on Zooniverse 
 - Crowdsourced data will be aggregated and sent back to collection holders (Tim Smith and National Science and Media Museum)
 - Book Chapter
 
+  
+## Licence 
+This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
 
 
